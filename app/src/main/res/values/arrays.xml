@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="family_options">
+        <item></item>
+        <item>Software</item>
+        <item>Hardware</item>
+        <item>Altres</item>
+    </string-array>
+</resources>

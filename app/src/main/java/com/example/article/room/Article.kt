@@ -10,6 +10,9 @@ data class Article(
     var description: String,
     var family: String?,
     var pricenoIVA: Float,
+    var priceIVA: Float,
     var stock: Float,
-)
+){
+    constructor() : this("", "", "", 0.0f, 0.0f, 0.0f)
+}
 
